@@ -5,4 +5,4 @@ This repository serves as a tracker for all the tutorials that I took related wi
 
 ## Contents
 1. Python's Beautiful Soup for Web scraping
---TO BE FOLLOWED--
+\n--TO BE FOLLOWED--
